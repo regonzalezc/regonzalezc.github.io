@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Rafael Ernesto González
 email:
-  url: mailto:wode.nimo.ni@gmail.com
-  text: wode.nimo.ni@gmail.com
+  url: mailto:regonzalezc@gmail.com
+  text: regonzalezc@gmail.com
 homepage:
-  url: https://wodenimoni.com
-  text: wodenimoni.com
+  url: https://regonzalezc.github.io
+  text: https://regonzalezc.github.io/
 ---
 
-# Wode **Ni**
+# Rafael **Ernesto** González Camacho
 
 <!--
 include contact information from the front matter
