@@ -7,6 +7,7 @@ email:
 homepage:
   url: https://regonzalezc.github.io
   text: https://regonzalezc.github.io/
+phone: (+58) 424 - 177 6254
 ---
 
 # Rafael **Ernesto** González Camacho
