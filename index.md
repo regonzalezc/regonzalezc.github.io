@@ -7,9 +7,7 @@ email:
 homepage:
   url: https://regonzalezc.github.io
   text: https://regonzalezc.github.io/
-phone: 
-   url: https://t.me/regonzalezc
-   text: (+58) 424 - 177 6254
+phone: (+58) 424 - 177 6254
 ---
 
 # Rafael **Ernesto** González Camacho
@@ -23,17 +21,7 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-**CTO** | Liderazgo Estratégico, Intrapreneurship & Transformación Digital
-
-## Contacto
-
-* El Paraiso, Caracas DC, Venezuela 1020 
-* (+58) 424-177 6254 
-* (+58) 212-462 3820 
-* regonzalezc@gmail.com 
-* https://regonzalezc.github.io/ 
-
----
+**CTO** / Liderazgo Estratégico, Intrapreneurship & Transformación Digital
 
 ## Resumen Ejecutivo
 
@@ -63,7 +51,7 @@ Ejecutivo C-Level (CTO) con sólida formación dual en **Ingeniería en Computac
 ## EXPERIENCIA
 
 ### SIMBIO C.A., Caracas, Venezuela - Director Socio Fundador CTO / Arquitecto
-* **Agosto 2007 - Diciembre 2010** 
+_Agosto 2007 - Diciembre 2010_
 * Liderazgo Estratégico Dual: Dirigió las operaciones y estableció la visión estratégica doble (Negocio y Tecnología), garantizando rentabilidad y escalabilidad a largo plazo .
 * Innovación y Arquitectura In-House: Desarrolló y desplegó soluciones informáticas criticas *in-house* para la automatización de procesos, optimizando costos operativos .
 * Gestión de Infraestructura: Administró el aprovisionamiento estratégico de infraestructura (servidores, redes y hardware), garantizando una base tecnológica robusta .
