@@ -28,10 +28,10 @@ Supported arguments:
 Ejecutivo C-Level (CTO) con sólida formación dual en **Ingeniería en Computación** (con Mención de Honor en Trabajo de Grado en IA) y **MBA** (Operaciones y MIS) .
 
 * Experiencia comprobada en la dirección estratégica, el **intrapreneurship** y la Transformación Digital .
-* Sólida experticia en Arquitectura de Software y Desarrollo Full Stack (ecosistemas Java/Groovy y .NET), con foco en el diseño e implementación de soluciones adaptables *in-house* y la modernización de sistemas críticos (Legacy-to-Cloud) .
-* Más de 5 años en consultoría de alta complejidad, liderando la arquitectura e implementación de soluciones financieras críticas (Tesorería y Pagos Internacionales) dentro de proyectos de modernización del Estado (PROMAFE/SIGECOF) .
-* Experiencia académica y de investigación avanzada en Inteligencia Artificial (IA), Aprendizaje Automático ($ML/IA$) y Representación de Conocimiento, complementada con Liderazgo Educativo y mentoría técnica .
-* Liderazgo basado en Confianza y Credibilidad, con Paciencia Estratégica (Ajedrez) y Resiliencia (Taichí Chikung/Meditación), esenciales para la toma de decisiones C-Level en entornos complejos .
+* Sólida experticia en Arquitectura de Software y Desarrollo Full Stack (ecosistemas Java/Groovy y .NET), con foco en el diseño e implementación de soluciones adaptables *in-house* y la modernización de sistemas críticos.
+* Más de 5 años en consultoría de alta complejidad, liderando la arquitectura e implementación de soluciones financieras críticas (Tesorería y Pagos Internacionales) dentro de proyectos de modernización del Estado (PROMAFE/SIGECOF).
+* Experiencia académica y de investigación avanzada en Inteligencia Artificial *(IA)*, Aprendizaje Automático *(ML/IA)* y Representación de Conocimiento, complementada con Liderazgo Educativo y mentoría técnica.
+* Liderazgo basado en Confianza y Credibilidad, con Paciencia Estratégica (Ajedrez) y Resiliencia (Taichí Chikung/Meditación), esenciales para la toma de decisiones C-Level en entornos complejos.
 
 ---
 
