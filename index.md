@@ -45,6 +45,7 @@ Ejecutivo C-Level (CTO) con sólida formación dual en **Ingeniería en Computac
 | **Infraestructura y DevOps** | CI/CD (Jenkins, Maven), Infraestructura Robusta y Redes, Docker / Kubernetes, Virtualización. |
 | **Sistemas Críticos y Financieros** | Sistemas de Tesorería y Contabilidad Pública, Integración de Subsistemas Financieros (SIGECOF), Sistemas de Costos (ERP). Liderazgo en el ciclo de vida de sistemas financieros críticos (Pagos, Ingresos Fiscales, Cuenta Única de la ONT). |
 | **Habilidades Ejecutivas y Estratégicas** | Visión Estratégica, Intrapreneurship & Innovación, Paciencia Estratégica (Ajedrez), Resiliencia y Fortaleza Mental. Cumplimiento normativo (Compliance) y Gestión de Riesgos tecnológicos. |
+| **Idiomas** | Inglés de negocios avanzado |
 
 ---
 
