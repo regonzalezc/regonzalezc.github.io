@@ -8,6 +8,7 @@ homepage:
   url: https://regonzalezc.github.io
   text: https://regonzalezc.github.io/
 phone: 
+   url: https://t.me/regonzalezc
    text: (+58) 424 - 177 6254
 ---
 
