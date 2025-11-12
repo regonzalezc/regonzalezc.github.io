@@ -84,22 +84,25 @@ Ejecutivo C-Level (CTO) con sólida formación dual en **Ingeniería en Computac
 
 ### Formación de Ingeniería *(CpEng/CS, IA)*
 **Ingeniero en Computación (CpEng/CS)**
-Universidad Simón Bolívar (USB), Caracas, Venezuela 
+
+Universidad Simón Bolívar (USB), Caracas, Venezuela
 *Septiembre 1991 - Mayo 1998*
-    * Concentración en **Inteligencia Artificial (IA)** .
-    * **Logro Destacado:** Mención de Honor en Trabajo de Grado en IA (Modelo Reactivo de Control Automático en el Mundo Artificial de los Lemmings) (Marzo 1998) .
-    * **Investigación y *ML/IA*:** Asistente de Investigación en el Grupo de Inteligencia Artificial (GIA), enfocado en algoritmos avanzados de Aprendizaje Automático (*ML/IA*) y Representación de Conocimiento (Abril 1997 - Julio 1998) .
-    * **Liderazgo Educativo:** Asistencia Docente en el Departamento de Computación en Lógica Simbólica, Programación y Bases de Datos (Enero 1995 - Marzo 1997) .
+
+* Concentración en **Inteligencia Artificial (IA)** .
+* **Logro Destacado:** Mención de Honor en Trabajo de Grado en IA (Modelo Reactivo de Control Automático en el Mundo Artificial de los Lemmings) (Marzo 1998) .
+* **Investigación y *ML/IA*:** Asistente de Investigación en el Grupo de Inteligencia Artificial (GIA), enfocado en algoritmos avanzados de Aprendizaje Automático (*ML/IA*) y Representación de Conocimiento (Abril 1997 - Julio 1998) .
+* **Liderazgo Educativo:** Asistencia Docente en el Departamento de Computación en Lógica Simbólica, Programación y Bases de Datos (Enero 1995 - Marzo 1997) .
 * **Práctica Profesional:** CANTV, Caracas, Venezuela. Desarrollo del Sistema de Control de Inventario y Costos (SIRECA) (Julio 1994 - Septiembre 1994) .
 
 ### Master en Administración de Empresas *(MBA, Ops. Mgmt, MIS)*
 **Master en Administración de Empresas (MBA)**
+
 Instituto de Estudios Superiores en Administración (IESA), Caracas, Venezuela
 *Agosto 1998 - Julio 2000* 
   
-    * Concentración en Gerencia de Operaciones **(Ops. Mgmt)** .
-    * **Logro Académico:** Tesis de Grado enfocada en el Diseño de Sistema de Información Logístico (SILOG) .
-    * **Mentoría:** Asistencia Docente en el Curso de Gerencia de Operaciones (Abril - Julio 2000) .
+* Concentración en Gerencia de Operaciones **(Ops. Mgmt)** .
+* **Logro Académico:** Tesis de Grado enfocada en el Diseño de Sistema de Información Logístico (SILOG) .
+* **Mentoría:** Asistencia Docente en el Curso de Gerencia de Operaciones (Abril - Julio 2000) .
 
 ### Programa de Intercambio de MBA
 Warrington College of Business, University of Florida, Gainesville, FL, USA
@@ -111,8 +114,8 @@ Warrington College of Business, University of Florida, Gainesville, FL, USA
 ## Fortalezas Estratégicas y Liderazgo Complementario
 
 * **Paciencia Estratégica (Ajedrez):** 
-* Miembro del Club de Ajedrez USB (Septiembre 1992 - Marzo 1998).
-* Demuestra visión a largo plazo y habilidad para anticipar movimientos complejos, esenciales para la toma de decisiones C-Level y la planificación de arquitecturas . 
+Miembro del Club de Ajedrez USB (Septiembre 1992 - Marzo 1998).
+Demuestra visión a largo plazo y habilidad para anticipar movimientos complejos, esenciales para la toma de decisiones C-Level y la planificación de arquitecturas. 
 * **Resiliencia y Fortaleza Mental (Meditación y Taichí Chikung):** Cultiva el enfoque mental, el equilibrio emocional y la resiliencia, habilidades críticas para mantener el enfoque en entornos de alta presión o incertidumbre .
 * **Investigación y Tecnología (Aprendizaje Continuo):** Mantiene la curiosidad intelectual y el compromiso con el Aprendizaje Continuo, especialmente en las áreas de Inteligencia Artificial y nuevas tendencias tecnológicas .
 * **Adaptabilidad Global:** Experiencia Internacional por el Intercambio de MBA en la University of Florida, demostrando adaptabilidad cultural y visión global de negocios.
