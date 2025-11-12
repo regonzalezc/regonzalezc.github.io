@@ -84,8 +84,8 @@ Ejecutivo C-Level (CTO) con sólida formación dual en **Ingeniería en Computac
 
 ### Formación de Ingeniería *(CpEng/CS, IA)*
 **Ingeniero en Computación (CpEng/CS)**
-
 Universidad Simón Bolívar (USB), Caracas, Venezuela
+
 *Septiembre 1991 - Mayo 1998*
 
 * Concentración en **Inteligencia Artificial (IA)** .
@@ -98,15 +98,18 @@ Universidad Simón Bolívar (USB), Caracas, Venezuela
 **Master en Administración de Empresas (MBA)**
 
 Instituto de Estudios Superiores en Administración (IESA), Caracas, Venezuela
+
 *Agosto 1998 - Julio 2000* 
   
 * Concentración en Gerencia de Operaciones **(Ops. Mgmt)** .
 * **Logro Académico:** Tesis de Grado enfocada en el Diseño de Sistema de Información Logístico (SILOG) .
 * **Mentoría:** Asistencia Docente en el Curso de Gerencia de Operaciones (Abril - Julio 2000) .
 
-### Programa de Intercambio de MBA
+### **Programa de Intercambio de MBA**
 Warrington College of Business, University of Florida, Gainesville, FL, USA
+
 *Agosto 1999 - Diciembre 1999*
+
 * Concentración en Ciencias de la Información **(MIS)** .
 
 ---
