@@ -10,7 +10,9 @@ homepage:
 phone: (+58) 424 - 177 6254
 ---
 
-# Rafael **Ernesto** González Camacho
+# Rafael **Rafita** González Canacho
+
+**CTO** / Liderazgo Estratégico, Intrapreneurship & Transformación Digital
 
 <!--
 include contact information from the front matter
@@ -20,8 +22,6 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-
-**CTO** / Liderazgo Estratégico, Intrapreneurship & Transformación Digital
 
 ## Resumen Ejecutivo
 
